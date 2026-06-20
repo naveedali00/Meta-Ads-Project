@@ -141,8 +141,50 @@ Month
 <img width="1257" height="722" alt="Screenshot 2026-06-20 233136" src="https://github.com/user-attachments/assets/e0bba8d4-3f82-4a68-a106-297dff9c0bdc" />Montly Impression Instagram</a>
 <img width="1266" height="737" alt="Screenshot 2026-06-20 233207" src="https://github.com/user-attachments/assets/7a047dd9-ce64-4c9c-9227-6a4f9dccb32b" />Conversions of KPIs Facebook</a>
 <img width="1267" height="730" alt="Screenshot 2026-06-20 233235" src="https://github.com/user-attachments/assets/ceb69a1d-fcc8-4427-9074-a202184996a4" />Analysis of Ad Type(Shows which formate performance better)</a>
+Analysis of Ad Type(Shows which formate performance better
 
+These slicers allow stakeholders to perform deep-dive analysis without technical dependency.
 
+## 🛠️ Tools & Techniques Used
+Power BI Desktop
+
+Power Query for data cleaning and transformation
+
+DAX Measures:
+
+CTR = Clicks / Impressions
+
+Engagement Rate = Engagement / Impressions
+
+Conversion Rate = Purchases / Clicks
+
+Data Modeling (Fact & Dimension tables)
+
+Advanced Visuals:
+
+KPI Cards
+
+Bar & Line Charts
+
+Map Visual
+
+Matrix Table
+
+UX Design Principles for clarity and executive readability
+
+## 📈 Business Value & Conclusion
+This Power BI solution enables:
+
+Smarter budget allocation based on ad type performance
+
+Improved targeting strategy using demographic insights
+
+Optimized ad scheduling using time-based trends
+
+Faster decision-making through interactive self-service analytics
+
+## ✅ Final Outcome:
+The dashboard transforms raw marketing data into actionable insights, helping businesses increase ROI, reduce wasted ad spend, and scale high-performing campaigns effective
 
 
 
