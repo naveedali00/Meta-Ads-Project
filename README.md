@@ -106,3 +106,46 @@ Strong engagement from North America, Europe, and Asia, highlighting key scalabl
 Country-level analysis supports regional budget allocation decisions.
 
 ## 📊 Dashboard & Slicer Explanation
+Interactive Dashboard Components:
+
+KPI Cards for instant performance overview
+
+Ad Type Performance Table (IMPR, CTR, ER, CR)
+
+Engagement by Gender & Age visuals
+
+Geographical Map for country-wise engagement
+
+Weekly & Hourly Trend Charts
+
+Monthly Engagement Calendar View
+
+Filters & Slicers:
+
+Platform (Facebook / Instagram)
+
+Ad Type
+
+Target Interests
+
+Gender
+
+Month
+
+<img width="1258" height="707" alt="Screenshot 2026-06-20 232801" src="https://github.com/user-attachments/assets/080e53dc-c5d8-4a89-9370-e85134208153" />Dynamic Measure Selector (Engagement, Clicks, etc.)</a>
+<img width="1262" height="718" alt="Screenshot 2026-06-20 232837" src="https://github.com/user-attachments/assets/13c9cd2c-9d0b-4929-833d-7ebb8838de75" />Top kpi cards in Facebook(impre,clicks,CTR)</a>
+<img width="1256" height="718" alt="Screenshot 2026-06-20 232936" src="https://github.com/user-attachments/assets/eb16a8be-6784-409f-9035-44f946240ee9" />Weekly/Hourly trend in Instagram</a>
+<img width="1275" height="731" alt="Screenshot 2026-06-20 233017" src="https://github.com/user-attachments/assets/9346c869-ad14-4012-b1d0-810e0c33ca16" />Impressions by gender Facebook(Donut chart)</a>
+<img width="1260" height="722" alt="Screenshot 2026-06-20 233040" src="https://github.com/user-attachments/assets/47516c75-29b2-4c3f-acbe-490dc4d8d635" />Impressions by Country Instagram</a>
+<img width="1271" height="727" alt="Screenshot 2026-06-20 233106" src="https://github.com/user-attachments/assets/14669273-2f81-4d56-aeee-37324b0bd33a" />Impressions by Age Facebook(Bar charts)</a>
+<img width="1257" height="722" alt="Screenshot 2026-06-20 233136" src="https://github.com/user-attachments/assets/e0bba8d4-3f82-4a68-a106-297dff9c0bdc" />Montly Impression Instagram</a>
+<img width="1266" height="737" alt="Screenshot 2026-06-20 233207" src="https://github.com/user-attachments/assets/7a047dd9-ce64-4c9c-9227-6a4f9dccb32b" />Conversions of KPIs Facebook</a>
+<img width="1267" height="730" alt="Screenshot 2026-06-20 233235" src="https://github.com/user-attachments/assets/ceb69a1d-fcc8-4427-9074-a202184996a4" />Analysis of Ad Type(Shows which formate performance better)</a>
+
+
+
+
+
+
+
+
