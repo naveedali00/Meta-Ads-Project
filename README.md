@@ -71,3 +71,38 @@ These KPIs provide a complete funnel view from reach → engagement → conversi
 -Facebook Ads <a href ="https://github.com/naveedali00/Meta-Ads-Project/blob/main/Screenshot%202026-06-20%20204159.png">Dashboard of Facebook</a>
 
 -Instagram Ads <a href ="https://github.com/naveedali00/Meta-Ads-Project/blob/main/Screenshot%202026-06-20%20204247.png"> Dashboard of Instagram</a>
+
+## 💡 Key Business Insights
+🔹 Ad Format Performance
+
+Carousel ads deliver the highest conversion and purchase rate, making them ideal for performance-driven campaigns.
+
+Image ads generate strong reach but lower conversion efficiency.
+
+Stories ads show balanced engagement and moderate conversions.
+
+Video ads perform well for awareness but slightly lower on purchases.
+
+🔹 Audience Insights
+
+Age Group 18–30 shows the highest engagement and click activity.
+
+Female users demonstrate marginally higher engagement compared to male users.
+
+Engagement drops significantly beyond age 40, suggesting targeting optimization opportunities.
+
+🔹 Time-Based Insights
+
+Mid-week days (Tue–Thu) show peak engagement.
+
+Hourly trend analysis reveals highest engagement during evening hours, ideal for ad scheduling.
+
+Monthly engagement patterns help identify campaign fatigue and refresh cycles.
+
+🔹 Geographic Performance
+
+Strong engagement from North America, Europe, and Asia, highlighting key scalable markets.
+
+Country-level analysis supports regional budget allocation decisions.
+
+## 📊 Dashboard & Slicer Explanation
