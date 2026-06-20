@@ -68,7 +68,6 @@ These KPIs provide a complete funnel view from reach → engagement → conversi
 
 -Instagram weekly/hourly trends <a href ="https://github.com/naveedali00/Meta-Ads-Project/blob/main/Screenshot%202026-06-20%20204247.png">Overview of Instagram</a>
 
--Facebook Ads <a href ="<img width="1258" height="717" alt="Screenshot 2026-06-20 135137" src="https://github.com/user-attachments/assets/f949e25e-9b7c-4113-a749-af234be9d7d7" />Dashboard of Facebook
+-Facebook Ads <a href ="https://github.com/naveedali00/Meta-Ads-Project/blob/main/Screenshot%202026-06-20%20204159.png">Dashboard of Facebook</a>
 
-
--Instagram Ads Dashboard of Instagram
+-Instagram Ads <a href ="https://github.com/naveedali00/Meta-Ads-Project/blob/main/Screenshot%202026-06-20%20204247.png"> Dashboard of Instagram</a>
