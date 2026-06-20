@@ -43,4 +43,5 @@ The dashboard compares low-volume test campaigns and high-volume production camp
 
 - <a href = "https://github.com/naveedali00/Meta-Ads-Project/blob/main/WhatsApp%20Image%202026-06-20%20at%2013.28.37.jpeg">Dashboard View</a>
 
+-Meta ads like Facebook&Instagram <a href ="https://app.powerbi.com/view?r=eyJrIjoiMDI3NGFiZmItMGI3Ni00MTRhLWFhYjQtMGFhN2FjNmEzMzc1IiwidCI6IjZkY2M3NmM2LTFjMTMtNGE0Mi04NGE3LTc0OTcxYTJlMmQ2MyJ9">Dashboard performances insights</a>
 
