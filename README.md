@@ -41,4 +41,4 @@ Total Ad Budget (2.54M)
 
 The dashboard compares low-volume test campaigns and high-volume production campaigns to identify performance consistency and scalability
 
-<img width="1258" height="717" alt="Screenshot 2026-06-20 135137" src="https://github.com/user-attachments/assets/d2e6ace7-f8d6-4aa4-a40c-d365596fbab8" />
+- <a href = "https://github.com/naveedali00/Meta-Ads-Project/blob/main/WhatsApp%20Image%202026-06-20%20at%2013.28.37.jpeg">Dashboard View</a>
