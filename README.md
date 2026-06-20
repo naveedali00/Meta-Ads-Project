@@ -66,3 +66,8 @@ These KPIs provide a complete funnel view from reach → engagement → conversi
 
 -Top KPI Cards(Impression,Clicks,CTR) <a href ="https://github.com/naveedali00/Meta-Ads-Project/blob/main/Screenshot%202026-06-20%20204159.png">Overview of Facebook</a>
 
+-Instagram weekly/hourly trends <a href ="https://github.com/naveedali00/Meta-Ads-Project/blob/main/Screenshot%202026-06-20%20204247.png">Overview of Instagram</a>
+
+-Facebook Ads Dashboard of Facebook
+
+-Instagram Ads Dashboard of Instagram
