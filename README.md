@@ -1,9 +1,8 @@
-# Meta-Ads-Project
-📊 Meta Ads Performance Analysis | Power BI Dashboard
-🔍 Project Summary
+# 📊 Meta Ads Performance Analysis | Power BI Dashboard
+## 🔍 Project Summary
 This project analyzes Meta (Facebook & Instagram) advertising performance using Power BI to measure campaign effectiveness, user engagement, and conversion efficiency. The dashboard helps marketing teams understand which ad formats, demographics, time periods, and platforms drive better ROI, enabling data-driven budget optimization and targeting decisions.
 
-📁 Dataset Overview
+## 📁 Dataset Overview
 The dataset represents Meta Ads campaign performance data and includes key marketing metrics across demographics, geography, time, and ad formats.
 
 Key Data Fields:
